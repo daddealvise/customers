@@ -1,17 +1,20 @@
 {
 	"customers": [{
+			"id": 0,
 			"date": "09/12/2017",
 			"first_name": "Sebastian",
 			"last_name": "Eschweiler",
 			"email": "sebastian@codingthesmartway.com"
 		},
 		{
+			"id": 1,
 			"date": "09/12/2017",
 			"first_name": "Steve",
 			"last_name": "Palmer",
 			"email": "steve@codingthesmartway.com"
 		},
 		{
+			"id": 2,
 			"date": "10/12/2017",
 			"first_name": "Ann",
 			"last_name": "Smith",
